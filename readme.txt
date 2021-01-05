@@ -1,10 +1,10 @@
-=== Account Manager WooCommerce ===	
+=== Account Manager for WooCommerce ===	
 Contributors: bizswoop
 Tags: woocommerce, woocommerce crm, crm, customer, account, manager, account manager, customer relationship manager, wp-crm, user management, WordPress CRM, Small Business CRM, customer insights, insights, commissions, commission
 Requires at least: 3.0
 Requires PHP: 5.6
-Tested up to: 5.4.2
-Stable tag: 2.0.13
+Tested up to: 5.6.0
+Stable tag: 2.0.14
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,7 +46,12 @@ Customers drive business decisions and the Account Manager WooCommerce plugin pr
 
 == Changelog ==
     
-        = 2.0.13 =
+        = 2.0.14 =
+        * WP 5.6.0 compatibility support testing
+	* WC 4.8.0 compatibility support testing 
+	* Performance improvements and bug fixes
+       
+       = 2.0.13 =
         * WP 5.4.2 compatibility support testing
 	* WC 4.3.0 compatibility support testing 
 	* Performance improvements and bug fixes
