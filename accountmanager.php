@@ -1,12 +1,12 @@
 <?php
 	/**
-	 * Plugin Name: Account Manager WooCommerce
+	 * Plugin Name: Account Manager for WooCommerce
 	 * Plugin URI: http://www.bizswoop.com/wp/account-manager
 	 * Description: Add Account Manager Functionality to WooCommerce
-	 * Version: 2.0.13
+	 * Version: 2.0.14
 	 * Text Domain: account-manager-woocommerce
 	 * WC requires at least: 2.4.0
-	 * WC tested up to: 4.3.0
+	 * WC tested up to: 4.8.0
 	 * Author: BizSwoop a CPF Concepts, LLC Brand
 	 * Author URI: http://www.bizswoop.com
 	 */
